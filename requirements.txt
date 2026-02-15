@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+habanero
+pymupdf
+requests
+python-docx
+sentence-transformers
+scikit-learn
+beautifulsoup4
