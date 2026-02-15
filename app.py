@@ -1572,3 +1572,4 @@ with tab_collection:
                 if st.button("🗑️ Remove", key=f"remove_{i}"):
                     st.session_state.collection.pop(i)
                     st.rerun()
+
