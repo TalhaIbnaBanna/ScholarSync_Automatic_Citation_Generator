@@ -1,4 +1,5 @@
 # ScholarSync - Automatic CitationGenerator
+
 A citation generator which can handle multiple input types and prepare a perfectly formatted bibliography.
 
 **The folder has 3 important files**
@@ -8,6 +9,9 @@ A citation generator which can handle multiple input types and prepare a perfect
 * The requirements.txt file: This was a file needed to host the website.
 
 Created by:
+
 Talha Ibna Banna
+
 Roll: 13
+
 IBA BBA 30
