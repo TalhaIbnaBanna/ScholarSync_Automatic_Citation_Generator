@@ -1,4 +1,4 @@
-# ScholarSync - Automatic CitationGenerator
+# ScholarSync - Automatic Citation Generator
 
 A citation generator which can handle multiple input types and prepare a perfectly formatted bibliography.
 
